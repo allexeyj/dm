@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings, OS
+.DS_Store
+.idea/
+
